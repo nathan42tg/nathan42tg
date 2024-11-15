@@ -1,3 +1,1 @@
-15yo
-code
-python
+sigma
